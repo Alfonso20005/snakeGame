@@ -42,7 +42,7 @@ Para probar el juego en tu máquina local:
 
 ## 📸 Captura de pantalla
 
-![Snake Game](ruta/al/banner.png)
+![Snake Game](images/imagenFondo.JPG)
 
 ## 🤝 Contribuciones
 
